@@ -22,15 +22,15 @@ I enjoy breaking down how systems work, identifying security weaknesses, and tur
 <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5">
 <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS">
 <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript">
-<img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP">
+<img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP"> <br>
 
 <img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux">
 <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite">
 <img src="https://cdn.simpleicons.org/owasp" width="40" height="40" alt="OWASP">
 <img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit">
-<img src="https://cdn.simpleicons.org/nmap" width="40" height="40" alt="Nmap">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40" height="40" alt="Nmap"> <br>
 
-<img src="https://cdn.simpleicons.org/windows" width="40" height="40" alt="Windows">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" width="40" height="40" alt="Windows">
 <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux">
-<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux">
+<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux"> <br>
 </p>
