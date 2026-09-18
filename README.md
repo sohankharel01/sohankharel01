@@ -28,9 +28,9 @@ I enjoy breaking down how systems work, identifying security weaknesses, and tur
 <img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite">
 <img src="https://cdn.simpleicons.org/owasp" width="40" height="40" alt="OWASP">
 <img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nmap.svg" width="40" height="40" alt="Nmap"> <br>
+<img src="https://img.icons8.com/color/48/nmap.png" width="40" height="40" alt="Nmap"> <br>
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg" width="40" height="40" alt="Windows">
+<img src="https://img.icons8.com/color/48/nmap.png" width="40" height="40" alt="Nmap">
 <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux">
 <img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux"> <br>
 </p>
