@@ -1,18 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on **Web Security & Offensive Security**<br><br>🤝 I’m looking to collaborate on **Cybersecurity Projects & CTFs**<br><br>🧠 I’m currently learning **OWASP Top 10, Penetration Testing, Linux & Networking**<br><br>🛠️ I’m building **Security Tools & Practical Labs**<br><br>💬 Ask me about **Web Security, TryHackMe & Cybersecurity**<br><br>⚡ Fun fact: **I enjoy turning what I learn into practical security projects**
+<!-- Created with GitHub Profile Studio -->
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Breaking%20Things%20to%20Understand%20How%20They%20Work&width=720&center=true&color=36BCF7&size=24&pause=1000" alt="Typing SVG" /></p>
+
+# Hi there! 👋 I'm Sohan Kharel
+### Offensive Security | Web Application Security | Security Research
+
+Focused on Offensive Security and Web Application Security, with hands-on experience across security labs, CTFs, and practical vulnerability research. I work with tools such as Burp Suite, Nmap, Gobuster, and Kali Linux while continuously developing my skills in penetration testing, web security, and security research.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohankharel01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sohan-kharel-b42a41316) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sohankharel01&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sohankharel01&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sohankharel01&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy breaking down how systems work, identifying security weaknesses, and turning what I learn into practical projects and documented security research.
+
+
+## Connect With Me
+
+[LinkedIn](www.linkedin.com/in/sohan-kharel-b42a41316) | [Instagram](https://instagram.com/sohankharel01) | [Website](https://)
+
+Kali Linux · Linux · Burp Suite · Nmap · Gobuster · Metasploit · Wireshark · Python · Bash · Git · GitHub
 
 ---
-[![](https://komarev.com/ghpvc/?username=sohankharel01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Made with ❤️ using [GitHub Profile Studio](https://github.com/github-profile-studio)*
