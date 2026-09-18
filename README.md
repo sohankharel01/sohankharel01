@@ -30,7 +30,7 @@ I enjoy breaking down how systems work, identifying security weaknesses, and tur
 <img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit">
 <img src="https://img.icons8.com/color/48/nmap.png" width="40" height="40" alt="Nmap"> <br>
 
-<img src="https://img.icons8.com/color/48/nmap.png" width="40" height="40" alt="Nmap">
+<img src="https://img.icons8.com/color/48/windows-10.png" width="40" height="40" alt="Windows">
 <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux">
-<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux"> <br>
+<img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"> <br>
 </p>
