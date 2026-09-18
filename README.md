@@ -1,6 +1,6 @@
 <!-- Created with GitHub Profile Studio -->
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Breaking%20Things%20to%20Understand%20How%20They%20Work&width=720&center=true&color=36BCF7&size=24&pause=1000" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Breaking%20Things%20to%20Understand%20How%20They%20Work&width=720&center=true&color=36BCF7&size=24&pause=10000" alt="Typing SVG" /></p>
 
 # Hi there! 👋 I'm Sohan Kharel
 ### Offensive Security | Web Application Security | Security Research
