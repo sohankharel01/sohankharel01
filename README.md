@@ -16,12 +16,21 @@ I enjoy breaking down how systems work, identifying security weaknesses, and tur
 
 [LinkedIn](www.linkedin.com/in/sohan-kharel-b42a41316) | [Instagram](https://instagram.com/sohankharel01) | [Website](https://)
 
-Kali Linux · Linux · Burp Suite · Nmap · Gobuster · Metasploit · Wireshark · Python · Bash · Git · GitHub
+## Skills
 <p align="left">
-  <img src="https://cdn.simpleicons.org/github" width="40" alt="GitHub">
-  <img src="https://cdn.simpleicons.org/kalilinux" width="40" alt="Kali Linux">
-  <img src="https://cdn.simpleicons.org/burpsuite" width="40" alt="Burp Suite">
-  <img src="https://cdn.simpleicons.org/tryhackme" width="40" alt="TryHackMe">
-  <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux">
-  <img src="https://cdn.simpleicons.org/python" width="40" alt="Python">
+  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python">
+<img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML5">
+<img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS">
+<img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP">
+
+<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux">
+<img src="https://cdn.simpleicons.org/burpsuite" width="40" height="40" alt="Burp Suite">
+<img src="https://cdn.simpleicons.org/owasp" width="40" height="40" alt="OWASP">
+<img src="https://cdn.simpleicons.org/metasploit" width="40" height="40" alt="Metasploit">
+<img src="https://cdn.simpleicons.org/nmap" width="40" height="40" alt="Nmap">
+
+<img src="https://cdn.simpleicons.org/windows" width="40" height="40" alt="Windows">
+<img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux">
+<img src="https://cdn.simpleicons.org/kalilinux" width="40" height="40" alt="Kali Linux">
 </p>
