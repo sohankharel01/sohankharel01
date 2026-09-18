@@ -17,7 +17,4 @@ I enjoy breaking down how systems work, identifying security weaknesses, and tur
 [LinkedIn](www.linkedin.com/in/sohan-kharel-b42a41316) | [Instagram](https://instagram.com/sohankharel01) | [Website](https://)
 
 Kali Linux · Linux · Burp Suite · Nmap · Gobuster · Metasploit · Wireshark · Python · Bash · Git · GitHub
-
----
-
-*Made with ❤️ using [GitHub Profile Studio](https://github.com/github-profile-studio)*
+https://cdn.simpleicons.org/kalilinux
